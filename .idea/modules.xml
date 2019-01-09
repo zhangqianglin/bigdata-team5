@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/etl/etl.iml" filepath="$PROJECT_DIR$/etl/etl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop/hadoop-core.iml" filepath="$PROJECT_DIR$/hadoop/hadoop-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase/hbase.iml" filepath="$PROJECT_DIR$/hbase/hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm/storm.iml" filepath="$PROJECT_DIR$/storm/storm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streaming/streaming.iml" filepath="$PROJECT_DIR$/streaming/streaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taotao_bi_analysis.iml" filepath="$PROJECT_DIR$/taotao_bi_analysis.iml" />
+    </modules>
+  </component>
+</project>

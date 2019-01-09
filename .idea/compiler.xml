@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="etl" />
+        <module name="hadoop-core" />
+        <module name="hbase" />
+        <module name="sparkcore" />
+        <module name="storm" />
+        <module name="streaming" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="etl" target="1.7" />
+      <module name="hadoop-core" target="1.7" />
+      <module name="hadoopcore" target="1.7" />
+      <module name="hbase" target="1.7" />
+      <module name="sparkcore" target="1.7" />
+      <module name="storm" target="1.7" />
+      <module name="storm_realtime_process" target="1.7" />
+      <module name="streaming" target="1.7" />
+      <module name="taotao_bi_analysis" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
